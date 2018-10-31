@@ -1,1 +1,1 @@
-# Lending_Club
+#Educational Python project to identify common loan information (i.e. borrowers' annual income, borrowers' reasons for taking a loan, borrowers' average Fico credit score, etc...) for high interest rate loans (25%+).
